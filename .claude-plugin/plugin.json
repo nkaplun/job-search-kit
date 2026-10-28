@@ -1,0 +1,6 @@
+{
+  "name": "job-search-kit",
+  "version": "1.0.0",
+  "description": "Find open job postings that match your filters, tailor a one-page LaTeX resume for each, and track every application and follow-up.",
+  "keywords": ["job search", "resume", "latex", "applications"]
+}

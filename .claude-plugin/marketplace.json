@@ -1,0 +1,14 @@
+{
+  "name": "job-search-kit",
+  "owner": {
+    "name": "job-search-kit"
+  },
+  "plugins": [
+    {
+      "name": "job-search-kit",
+      "source": "./",
+      "description": "Find jobs, tailor a LaTeX resume for each, and track applications."
+    }
+  ],
+  "description": "Job search skills for Claude Code."
+}
